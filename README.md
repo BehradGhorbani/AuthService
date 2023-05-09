@@ -1,3 +1,3 @@
-setup using "npm i -s"
-fill .env file
-run using ""npm dev"
+setup using "npm i -s" <br>
+fill .env file <br>
+run using ""npm dev" <br>
